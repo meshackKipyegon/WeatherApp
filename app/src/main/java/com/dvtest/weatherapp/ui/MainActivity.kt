@@ -47,6 +47,7 @@ class MainActivity : BaseActivity(), WeatherContract.view, LocationListener {
                 android.Manifest.permission.ACCESS_COARSE_LOCATION
             ) != PackageManager.PERMISSION_GRANTED
         ) {
+            //n
             ActivityCompat.requestPermissions(
                 this,
                 listOf<String>(
