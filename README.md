@@ -1,6 +1,6 @@
 # WeatherApp
 
-[![Build Status](https://github.com/visron/WeatherApp/actions)](https://github.com/visron/WeatherApp)
+[![Build Status](https://github.com/visron/WeatherApp/actions)](https://github.com/siliconapps/WeatherApp)
 
 
 Sample Android App Written almost purely in kotlin
@@ -15,7 +15,7 @@ Used openWeatherApi to get data https://openweathermap.org
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:visron/WeatherApp.git
+git clone git@github.com:silicoapps/WeatherApp.git
 ```
 
 ## Configuration
